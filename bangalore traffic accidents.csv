@@ -1,0 +1,48 @@
+_id,Zone,Sub-division,Locality,Latitude,Longitude,2023 (Nov) - Fatal Cases,2023 (Nov) - Killed People,2023 (Nov) - Non-Fatal,2023 (Nov) - Injured People,2023 (Nov) - Total Cases
+1,East,East,Halasuru,12.9734406,77.6006427,11,11,56,48,67
+2,East,East,Indiranagar,12.966667,77.605556,12,12,73,62,85
+3,East,East,Banaswadi,12.9738901,77.5936103,4,4,23,24,27
+4,East,East,Shivaji Nagar,12.970833,77.6006427,14,15,77,82,91
+5,East,East,Kadugondanahalli,12.958611,77.575556,6,6,21,19,27
+6,East,East,Krishnarajapura,12.948333,77.608056,6,6,34,39,40
+8,East,Whitefield,Old Airport Road,12.998611,77.567222,41,42,213,217,254
+9,East,Whitefield,HAL Old Airport Road,12.995833,77.569444,17,17,80,80,97
+10,East,Whitefield,Whitefield,12.930278,77.789722,43,44,180,163,223
+11,East,Whitefield,Sri Mahadeva Temple,12.972222,77.597222,11,12,82,72,93
+14,West,Central,Cubbon Park,12.974722,77.6025,2,2,54,41,56
+15,West,Central,High Grounds,12.9738901,77.608333,6,6,50,47,56
+16,West,Central,S.S Nagar,27.880556,78.080556,8,8,39,33,47
+17,West,Central,Manipal University gate,12.9225,77.601944,7,8,47,44,54
+18,West,Central,St. Joseph's University Gate 1,12.962778,77.612778,6,6,32,30,38
+19,West,Central,Simhanaada,12.9275,77.603056,6,6,59,45,65
+21,West,West,Ashoka Innovators for the Public (India),12.966111,77.610278,9,9,20,18,29
+22,West,West,Wilson Garden,12.959167,77.605,9,10,37,31,46
+23,West,West,Upparpet Traffic Police Station,12.962222,77.594167,9,9,23,28,32
+24,West,West,Chickpet,12.965278,77.595,19,19,163,125,182
+25,West,West,City Market Banglore,12.973056,77.608611,58,59,221,237,279
+27,West,Vijayanagar,CITY MARKET,12.9625,77.5938901,16,16,63,66,79
+28,West,Vijayanagar,Kengeri,12.919722,77.5425,7,7,43,42,50
+29,West,Vijayanagar,Vijayanagar,12.948056,77.590833,40,41,201,202,241
+32,North,North East,Magadi Road,12.9775,77.581389,8,8,74,63,82
+33,North,North East,Magadi road,12.945833,77.597778,24,24,120,118,144
+34,North,North East,Shri Kanchi Kamakshi Devi Temple,12.963333,77.594167,58,63,178,222,236
+35,North,North East,Kamakshi Layout,12.923333,77.631944,36,39,101,129,137
+36,North,North East,RT Nagar,12.980833,77.6125,59,61,173,215,232
+37,North,North East,Hebbal,12.992222,77.643333,23,24,80,84,103
+39,North,North,Yelahanka,13.082778,77.576389,18,18,81,88,99
+40,North,North,Chikkajala,12.903611,77.517778,16,17,86,82,102
+41,North,North,International Airport Bus Stop,13.1989,77.7068,21,22,85,82,106
+42,North,North,Hindustan Aeronautics Limited Airport,12.996389,77.570278,32,32,160,191,192
+43,North,North,Hennuru,13.0359,77.6431,28,29,74,84,102
+46,South,South East,Adugodi,12.9458,77.6021,10,10,53,67,63
+47,South,South East,Madivala,12.9288,77.6109,14,14,59,53,73
+48,South,South East,Hulimavu,12.9734,77.6406,14,14,74,71,88
+49,South,South East,Chamarajpet,12.9589,77.5956,16,16,92,117,108
+51,South,South,Basavanagudi,12.9734,77.6007,4,4,25,22,29
+52,South,South,Jayanagar,12.948,77.5908,3,3,99,98,102
+53,South,South,Banashankari,12.9739,77.5942,13,13,77,77,90
+54,South,South,K.S. Layout,12.9241,77.6449,15,15,75,66,90
+55,South,South,Talaghattapura,12.8397,77.5778,18,18,136,137,154
+56,South,South,HSR Layout,12.9288,77.6109,22,26,67,69,89
+58,South,HSR Layout,Electronic City,12.8436,77.6045,16,17,40,56,56
+59,South,HSR Layout,Bellandur,12.9361,77.6421,38,39,158,171,196
